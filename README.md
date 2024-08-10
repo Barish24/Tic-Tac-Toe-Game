@@ -30,5 +30,5 @@ python main.py
 
 
 ## Author
-[Barsha Moharana](https://www.prism.gatech.edu/~manwar8)
+[Barsha Moharana]
 
